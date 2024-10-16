@@ -1,0 +1,14 @@
+[
+    {
+        "description": "At 9AM eat breakfast",
+        "due_date": "2024-09-30",
+        "completed": true,
+        "priority": "medium"
+    },
+    {
+        "description": "At 6:30PM go for walking",
+        "due_date": "2024-10-15",
+        "completed": false,
+        "priority": "high"
+    }
+]
