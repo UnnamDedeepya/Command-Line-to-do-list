@@ -1,0 +1,14 @@
+[
+    {
+        "description": "Tutorial works",
+        "due_date": "2024-10-22",
+        "completed": false,
+        "priority": "medium"
+    },
+    {
+        "description": "prepare for seminar",
+        "due_date": "2024-10-18",
+        "completed": true,
+        "priority": "high"
+    }
+]
